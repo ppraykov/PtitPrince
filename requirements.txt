@@ -1,5 +1,5 @@
 matplotlib
 numpy
 scipy
-seaborn>=0.9
+seaborn>=0.9 # error seaborn.external.six.moves was fixed by reinstalling seaborn=0.9, I had seaborn 0.10 initially
 #ptitprince==0.1.5
